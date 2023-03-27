@@ -1,0 +1,95 @@
+h4{
+   color: aqua;
+}
+h5{
+    color: red;
+}
+h3{
+    color: blue;
+    font-size: 30px;
+}
+h6{
+    color: pink;
+}
+h2{
+    color: aqua;
+    font-size: 2em;
+}
+h1{
+    color: yellow;
+    font-size: 3rem;
+}
+
+.AA {
+    color: red;
+}
+.A {
+color: green;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+}
+.B {
+   background-color: green;
+   text-align: center;
+    font-weight: thin;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+.C{
+    color: pink;
+    text: shadow 5px;;
+}
+.D{
+    color: brown;
+    text-decoration-style: ;
+    text-decoration: line-through;
+
+}
+.E {
+    color: yellow;
+    text-decoration: underline;
+    text-decoration-color: red;
+    -moz-text-decoration-color: red;
+}
+.AA{
+    color: green;
+}
+.container2{
+    background-color: pink;
+}
+.line11, .line33{
+color: blue;
+}
+.line22, .line44{
+    color: red;
+}
+.same1, .same3, .same5{
+    background-color: pink;
+    color: light red;
+}
+#same2{
+    color: blue;
+    font-size: 36px;
+}
+.same3{
+    font-size: 24px;
+}
+#same4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.images{
+    background-color: aqua;
+}
+/* Style for images with shared class */
+.image1 {
+    width: 200px;
+    height: 200px;
+  }
+  /* Style for the first image with unique class */
+  .image2 {
+    width: 250px;
+    height: 300px;
+  }
+  
